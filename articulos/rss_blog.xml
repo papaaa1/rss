@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Blog de Tecnología - Mundo Tech</title>
+    <link>https://github.com/papaaa1/rss.git</link>
+    <description>Noticias, análisis y guías sobre programación, IA, y gadgets.</description>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 06 May 2025 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>¿Qué es la IA generativa?</title>
+      <link>https://github.com/papaaa1/rss.git/ia-generativa.html</link>
+      <description>Una guía básica sobre el funcionamiento y aplicaciones de la inteligencia artificial generativa.</description>
+      <pubDate>Sun, 05 May 2025 14:00:00 GMT</pubDate>
+      <category>Inteligencia Artificial</category>
+    </item>
+
+    <item>
+      <title>Comparativa: Visual Studio vs VS Code</title>
+      <link>https://github.com/papaaa1/rss.git/articulos/vs-vscode.html</link>
+      <description>Analizamos pros y contras de ambos entornos de desarrollo para ayudarte a elegir.</description>
+      <pubDate>Mon, 06 May 2025 09:30:00 GMT</pubDate>
+      <category>Programación</category>
+    </item>
+
+    <item>
+      <title>Top gadgets del 2025</title>
+      <link>https://github.com/papaaa1/rss.git/gadgets-2025.html</link>
+      <description>Un vistazo a los dispositivos tecnológicos más innovadores del año.</description>
+      <pubDate>Mon, 06 May 2025 08:00:00 GMT</pubDate>
+      <category>Gadgets</category>
+    </item>
+
+  </channel>
+</rss>
