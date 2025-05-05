@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Blog de Tecnología - Mundo Tech</title>
+    <link>https://www.mundotech.com</link>
+    <description>Explora lo último en software, hardware, inteligencia artificial y más.</description>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 06 May 2025 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Guía rápida sobre Inteligencia Artificial Generativa</title>
+      <link>https://www.mundotech.com/ia-generativa-guia</link>
+      <description>Descubre qué es la IA generativa, sus usos y herramientas más populares.</description>
+      <pubDate>Sun, 05 May 2025 15:00:00 GMT</pubDate>
+      <category>Inteligencia Artificial</category>
+    </item>
+
+    <item>
+      <title>Comparativa: Visual Studio vs VS Code</title>
+      <link>https://www.mundotech.com/vs-vscode</link>
+      <description>Analizamos las principales diferencias entre estos entornos de desarrollo.</description>
+      <pubDate>Mon, 06 May 2025 10:30:00 GMT</pubDate>
+      <category>Programación</category>
+    </item>
+
+    <item>
+      <title>Top 5 gadgets tecnológicos de 2025</title>
+      <link>https://www.mundotech.com/gadgets-2025</link>
+      <description>Un repaso por los dispositivos más innovadores lanzados este año.</description>
+      <pubDate>Mon, 06 May 2025 08:00:00 GMT</pubDate>
+      <category>Gadgets</category>
+    </item>
+
+  </channel>
+</rss>
